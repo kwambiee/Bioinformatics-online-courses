@@ -44,3 +44,23 @@ To run the above project you need to meet the following requirements:
 
 - Github: https://github.com/shahedakhatoon
 - Linkedin: https://www.linkedin.com/in/shaheda-khatoon-690576200/
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+Original design by Cindy Shin
+
+This project is CC licensed.
