@@ -23,7 +23,7 @@
 
 ## Live Demo
 
-[Video Demo](https://www.loom.com/share/f999b036408d4b1ab5f9ab44c70523ce)
+[Video Demo](https://www.loom.com/share/898a50000eb84294a47d7075ff15d089)
 
 ## Getting Started
 
