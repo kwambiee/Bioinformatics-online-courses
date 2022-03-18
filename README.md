@@ -1,12 +1,12 @@
 # Bioinformatics-online-courses
 
-> This project is template for Bioinformatics online courses event, which is build from scratch using CSS and JavaScript without using any framework or prebuiled design.
+> This project is template for Bioinformatics online courses event, which is build from scratch using CSS and JavaScript without using any framework or prebuild design.
 
 > This is the desktop version
-> ![127 0 0 1_5500_Bioinformatics-online-courses_index html](https://user-images.githubusercontent.com/73285210/158870147-2eaa39e0-2456-41ed-b9e0-25bede8ed5cd.png)
+> ![deploy-preview-1--bioinformatics-course netlify app_](https://user-images.githubusercontent.com/73285210/158979750-05033a1c-361b-4194-a37a-c72395e6d8f0.png)
 
 > This is the mobile version
-> ![127 0 0 1_5500_Bioinformatics-online-courses_index html (1)](https://user-images.githubusercontent.com/73285210/158870261-0f36adaa-8146-4cc4-9720-7d913d2f22e3.png)
+> ![deploy-preview-1--bioinformatics-course netlify app_ (1)](https://user-images.githubusercontent.com/73285210/158979822-131e9767-9c10-4499-8210-30a145e71170.png)
 
 # Built With
 
@@ -15,8 +15,11 @@
 - Js
 - Git & Gitflow
 - [netlify](https://www.netlify.com/) for deployment
+- GitHub pages for deployment
 
-## [Visit the website](https://bioinformatics-course.netlify.app/)
+## Visit the website
+[Netlify](https://bioinformatics-course.netlify.app/)
+[GitHub pages](https://shahedakhatoon.github.io/Bioinformatics-online-courses/)
 
 ## Live Demo
 
@@ -55,12 +58,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Original design by [Cindy Shin](https://www.behance.net/adagio07)
 
 ## 📝 License
 
-Original design by Cindy Shin
-
-This project is CC licensed.
+This project is [CC](https://creativecommons.org/licenses/) licensed.
